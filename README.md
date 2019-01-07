@@ -1,1 +1,2 @@
-# Resource-Constrained-Project-Sechduling
+# Resource-Constrained-Project-Sechduling with Transfer time
+Using Genetic Algorithm

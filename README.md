@@ -1,2 +1,2 @@
-# Resource-Constrained-Project-Sechduling with Transfer time
-Using Genetic Algorithm
+Problem Statement - 
+The objective of the problem is to choose a start time for each activity of the project so that the project duration is minimised, while satisfying precedence relations, resource availabilities and resource transfer time constraints. The resources required to perform the activities are renewable and available in limited quantity in each period. Each activity has a unique and known duration, uses a constant amount of resources for each period of its execution. The objective of the problem is to minimize the duration of the project while respecting precedence and resource constraint. This problem is known to be NP-hard. The problem is solved using a new genetic algorithm with two-point crossover operator.
